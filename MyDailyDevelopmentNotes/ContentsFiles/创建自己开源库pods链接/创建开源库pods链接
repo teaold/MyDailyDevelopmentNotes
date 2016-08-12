@@ -1,0 +1,65 @@
+
+一、创建github开源项目
+（如图）
+1)、Repository name</div>这里写成WZMarqueeView，必填的
+
+2)、Description</div>
+仓库的描述信息，可选的；
+
+3)、仓库的公开性
+这里只能选Public，一个是因为Private是要money的，再一个Private别人看不到还共享个毛；
+
+4)、是否创建一个默认的README文件
+
+一个完整地仓库，都需要README说明文档，建议选上。当然不嫌麻烦的话你也可以后面再手动创建一个；
+5)、是否添加.gitignore文件
+.gitignore文件里面记录了若干中文件类型，凡是该文件包含的文件类型，git都不会将其纳入到版本管理中。是否选择看个人需要；
+6)、license类型
+正规的仓库都应该有一个license文件，Pods依赖库对这个文件的要求更严，是必须要有的。因此最好在这里让github创建一个，也可以自己后续再创建。我使用的license类型是MIT
+
+
+
+二、clone 项目到本地
+安装了github desktop 软件直接可用。
+
+没有安装用命令:
+$ cd 保存路径
+$ git clone github.com/wangzz/WZMarqueeView.git
+
+三、向本地git仓库中添加创建Pods依赖库所需文件
+$ pod spec create <ProjectName>
+
+这样就已经生成了podspec文件。
+
+设置如：NXBRichTextImageEditor.podspec （已copy到该工程中）
+
+四、按照 图片： 创建完成项目列表.jpg 添加源代码和demo
+
+五、设置版本号和tag（和 .podspec 相同）
+
+$ set the new version to 1.0.0
+$ set the new tag to 1.0.0
+然后提交验证
+$ pod lib lint
+
+验证成功提示：
+xxxxx passed validation.
+
+
+六、上传podspec文件到CocoaPods官方仓库中
+要想一个Pods依赖库真正可用，还需要做最后一步操作，将我们刚才生成的podspec文件上传到CocoaPods官方的Specs仓库中，链接为：https://github.com/CocoaPods/Specs
+
+打开这个链接你就会发现，原来我们能使用的，以及我们使用pod search命令能搜索到的所有Pods依赖库都会把它们的podspec文件上传到这个仓库中，也就是说，只有将我们的podspec文件上传到这个仓库中以后，才能成为一个真正的Pods依赖库，别人才能正常使用！
+按照git的规则，要想向别人的仓库中添加文件，必须先fork一份别人的仓库，做完相应地修改后，在push给仓库的原作者，等到作者审核通过，然后合并到原来的仓库中。
+
+1、fork一份 CocoaPods官方的Specs仓库
+2、进到自己github项目列表，将fork的Specs仓库clone到本地（注意是自己项目中，clone时间较长，耐心等待）
+
+3、如图：Specs文件添加截图.jpg 所示，添加，然后提交Specs更新到github。
+$ git add -A && git commit -m "Add WZMarqueeView podspec file"
+$ git push origin master
+
+4、将在自己fork的Specs上做的修改pull给CocoaPods官方的Specs仓库
+如图：39743537_11.jpg 和 39743537_12.jpg
+
+5、剩下的工作就只有等了，等待CocoaPods的维护人员审核并将我们pull上去的修改合并到官方的Specs仓库中，这个过程通常会有一天左右的等待时间。如果有任何消息，比如审核不通过，或者审核通过了，CocoaPods官方都会发邮件通知的。
