@@ -1,4 +1,6 @@
 
+http://www.360doc.com/content/14/0309/10/11029609_358969425.shtml
+
 一、创建github开源项目
 （如图）
 1)、Repository name</div>这里写成WZMarqueeView，必填的
@@ -47,19 +49,29 @@ xxxxx passed validation.
 
 
 六、上传podspec文件到CocoaPods官方仓库中
-要想一个Pods依赖库真正可用，还需要做最后一步操作，将我们刚才生成的podspec文件上传到CocoaPods官方的Specs仓库中，链接为：https://github.com/CocoaPods/Specs
+（使用trunk）
 
-打开这个链接你就会发现，原来我们能使用的，以及我们使用pod search命令能搜索到的所有Pods依赖库都会把它们的podspec文件上传到这个仓库中，也就是说，只有将我们的podspec文件上传到这个仓库中以后，才能成为一个真正的Pods依赖库，别人才能正常使用！
-按照git的规则，要想向别人的仓库中添加文件，必须先fork一份别人的仓库，做完相应地修改后，在push给仓库的原作者，等到作者审核通过，然后合并到原来的仓库中。
+A.如果是第一次使用,需要注册*
 
-1、fork一份 CocoaPods官方的Specs仓库
-2、进到自己github项目列表，将fork的Specs仓库clone到本地（注意是自己项目中，clone时间较长，耐心等待）
+pod trunk register yourmail@gmail.com 'yourName'
 
-3、如图：Specs文件添加截图.jpg 所示，添加，然后提交Specs更新到github。
-$ git add -A && git commit -m "Add WZMarqueeView podspec file"
-$ git push origin master
+B.检查是否注册成功*
 
-4、将在自己fork的Specs上做的修改pull给CocoaPods官方的Specs仓库
-如图：39743537_11.jpg 和 39743537_12.jpg
+pod trunk me
 
-5、剩下的工作就只有等了，等待CocoaPods的维护人员审核并将我们pull上去的修改合并到官方的Specs仓库中，这个过程通常会有一天左右的等待时间。如果有任何消息，比如审核不通过，或者审核通过了，CocoaPods官方都会发邮件通知的。
+C. 验证podspec文件是否有误
+
+pod lib lint
+
+D.push pod spec文件
+
+pod trunk push yourProj.podspec
+
+
+
+
+
+
+
+
+

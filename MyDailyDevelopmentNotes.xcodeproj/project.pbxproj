@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F5047F031D6FDC120055AD3A /* GitHub学习资料和工具等 in Resources */ = {isa = PBXBuildFile; fileRef = F5047F021D6FDC120055AD3A /* GitHub学习资料和工具等 */; };
 		F5F72CBB1D5DF843008C0D62 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F5F72CBA1D5DF843008C0D62 /* main.m */; };
 		F5F72CBE1D5DF843008C0D62 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F5F72CBD1D5DF843008C0D62 /* AppDelegate.m */; };
 		F5F72CC11D5DF843008C0D62 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5F72CC01D5DF843008C0D62 /* ViewController.m */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F5047F021D6FDC120055AD3A /* GitHub学习资料和工具等 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "GitHub学习资料和工具等"; sourceTree = "<group>"; };
 		F5F72CB61D5DF843008C0D62 /* MyDailyDevelopmentNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyDailyDevelopmentNotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5F72CBA1D5DF843008C0D62 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F5F72CBC1D5DF843008C0D62 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 			isa = PBXGroup;
 			children = (
 				F5F72CEF1D5DFAB5008C0D62 /* 创建自己开源库pods链接 */,
+				F5047F021D6FDC120055AD3A /* GitHub学习资料和工具等 */,
 			);
 			path = ContentsFiles;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				F5F72CF31D5DFAD4008C0D62 /* 创建github开源项目1.png in Resources */,
 				F5F72CF91D5DFEDF008C0D62 /* 创建完成项目列表.jpg in Resources */,
 				F5F72CFB1D5E0160008C0D62 /* Specs文件添加截图.jpg in Resources */,
+				F5047F031D6FDC120055AD3A /* GitHub学习资料和工具等 in Resources */,
 				F5F72CF11D5DFAB5008C0D62 /* 创建开源库pods链接 in Resources */,
 				F5F72CC91D5DF843008C0D62 /* LaunchScreen.storyboard in Resources */,
 				F5F72CFE1D5E025E008C0D62 /* 39743537_11.jpg in Resources */,
@@ -548,6 +552,7 @@
 				F5F72CE51D5DF844008C0D62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F5F72CE61D5DF844008C0D62 /* Build configuration list for PBXNativeTarget "MyDailyDevelopmentNotesTests" */ = {
 			isa = XCConfigurationList;
@@ -556,6 +561,7 @@
 				F5F72CE81D5DF844008C0D62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F5F72CE91D5DF844008C0D62 /* Build configuration list for PBXNativeTarget "MyDailyDevelopmentNotesUITests" */ = {
 			isa = XCConfigurationList;
@@ -564,6 +570,7 @@
 				F5F72CEB1D5DF844008C0D62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
