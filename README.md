@@ -15,6 +15,11 @@
 
  点击Add Row添加NSAppTransportSecurity，类型为Dictionary，然后再添加子项目NSAllowsArbitraryLoads类行为Boolean值为YES
 
+**************
+## IOS开发中有用的第三方库：
+
+[第三方库列表信息](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/README2.md)
+
 ## MAC常用软件：
 **************
 ### Charles ：截取请求链接等
