@@ -24,3 +24,8 @@
 ## MAC常用软件：
 
 [MAC常用软件列表信息](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/READMEMacUserSof.md)
+
+**************
+## Markdown 基础语法：
+
+[Markdown基础语法](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056918&idx=2&sn=879dffff7b2604515eee7418047f8d16&scene=2&srcid=0903nMCPuxlL9nlX58sQSbAH&from=timeline&isappinstalled=0#wechat_redirect)
