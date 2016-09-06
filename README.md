@@ -18,7 +18,11 @@
 **************
 ## IOS开发中有用的第三方库：
 
-[第三方库列表信息](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/READMEThirdProject.md)
+[第三方库列表信息-收集中](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/READMEThirdProject.md)
+
+[iOS开发 非常全的三方库、插件、大牛博客等等](http://www.jianshu.com/p/e4ffa5808ad6)
+[TimLiu-iOS iOS开发常用三方库、插件、知名博客等等，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见（直接提交Issues即可）。 持续更新。。。](https://github.com/Tim9Liu9/TimLiu-iOS)
+
 
 **************
 ## MAC常用软件：
