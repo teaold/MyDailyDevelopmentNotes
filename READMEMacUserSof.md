@@ -28,6 +28,10 @@
 ### Navicat Premium ：Mac上最强大的数据库客户端
 ![Navicat](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/NavicatPremium.png)
 
+### fire Fox ：火狐浏览器上强大的数据库插件SQLite Manager
+
+[fireFox数据库插件SQLite Manager 使用](http://www.xuebuyuan.com/997322.html)
+
 **************
 ### Evernote：笔记软件
 ![Evernote](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/Evernote.png)
