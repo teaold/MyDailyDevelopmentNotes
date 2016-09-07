@@ -26,7 +26,7 @@
 ![WebStorm](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/WebStorm.png)
 
 ### Navicat Premium ：Mac上最强大的数据库客户端
-![Navicat](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/ContentsFiles/%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E5%BC%80%E6%BA%90%E5%BA%93pods%E9%93%BE%E6%8E%A5/NavicatPremium.png)
+![Navicat](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/NavicatPremium.png)
 
 **************
 ### Evernote：笔记软件
@@ -61,3 +61,10 @@
 **************
 
 
+## 网站
+
+### W3school：技术学习网站
+![W3school](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/W3school.png)
+
+### 简书：文字，博客，写作 网站，具有较好界面视觉
+![jianshu](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/jianshu.png)
