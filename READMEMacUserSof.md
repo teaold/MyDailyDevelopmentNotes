@@ -24,6 +24,10 @@
 ![UItraEdit](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/UItraEdit.png)
 ### WebStorm：Html代码编辑器，能补全
 ![WebStorm](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/WebStorm.png)
+
+### Navicat Premium ：Mac上最强大的数据库客户端
+![WebStorm](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/NavicatPremium.png)
+
 **************
 ### Evernote：笔记软件
 ![Evernote](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/Evernote.png)
