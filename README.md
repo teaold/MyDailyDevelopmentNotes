@@ -1,4 +1,8 @@
 **************
+## ios 学习模块
+
+![iOSLearningModule](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/iOSLearningModule.png)
+
 
 ## ios APP 日志管理的重要性：
 一个功能完整的ios App上线以后，就必须要收集用户行为Bug，因此上报日志显得尤其重要
