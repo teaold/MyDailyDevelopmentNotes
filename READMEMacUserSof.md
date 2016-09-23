@@ -28,6 +28,16 @@
 ### Navicat Premium ：Mac上最强大的数据库客户端
 ![Navicat](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/NavicatPremium.png)
 
+### iosImageExtractor ：Mac上快速拿到iOS应用中所有图片资源
+![Navicat](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/iosImageExtractor.png)
+
+[使用方法：http://www.jianshu.com/p/78dea31f2109](http://www.jianshu.com/p/78dea31f2109)
+
+                百度云
+                软件下载地址: http://pan.baidu.com/s/1kUVAT7p
+                提取密码: qrt5
+
+
 ### fire Fox ：火狐浏览器上强大的数据库插件SQLite Manager
 
 [fireFox数据库插件SQLite Manager 使用](http://www.xuebuyuan.com/997322.html)
