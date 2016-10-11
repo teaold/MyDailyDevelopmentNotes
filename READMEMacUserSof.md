@@ -74,6 +74,9 @@
 ![RARextractor](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/RARextractor.png)
 **************
 
+### Typora：Markdown编写即时查看软件
+![RARextractor](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/TyporaMarkdown.png)
+
 ### AppCode ：ios 开发软件（同Xcode）
 ![AppCode](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/AppCode.jpg)
         如果你不喜欢使用xCode来开发iOS应用，那么也可以选择[AppCode](https://www.jetbrains.com/objc/)这款由JetBrains制作的IDE。
