@@ -6,8 +6,8 @@
 ### reveal：ios代码开发视图分层查看第三方SDK，支持远程连接
 ![reveal](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/reveal.png)
 **************
-### Cornerstore ：SVN代码管理软件
-![Cornerstore](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/Cornerstore.png)
+### Cornerstone ：SVN代码管理软件
+![Cornerstone](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/Cornerstore.png)
 ### smartSVN ：SVN代码管理软件
 ![smartSVN](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/smartSVN.png)
 ### svnX ：SVN代码管理软件
@@ -29,7 +29,7 @@
 ![Navicat](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/NavicatPremium.png)
 
 ### iosImageExtractor ：Mac上快速拿到iOS应用中所有图片资源
-![Navicat](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/iosImageExtractor.png)
+![iosImageExtractor](https://github.com/niexiaobo/MyDailyDevelopmentNotes/blob/master/MyDailyDevelopmentNotes/MostusedSoftwareImages/iosImageExtractor.png)
 
 [使用方法：http://www.jianshu.com/p/78dea31f2109](http://www.jianshu.com/p/78dea31f2109)
 
